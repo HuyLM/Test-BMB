@@ -1,0 +1,38 @@
+[
+  {
+    "loopPath": false,
+    "isCuver": true,
+    "delayTimeStart": 1.83,
+    "durationMove": 3.55,
+    "totalPaths": [
+      {
+        "x": 0.12,
+        "y": 0.6312031
+      },
+      {
+        "x": 1.69277239,
+        "y": 0.358638227
+      }
+    ]
+  },
+  {
+    "loopPath": false,
+    "isCuver": false,
+    "delayTimeStart": 0.0,
+    "durationMove": 0.0,
+    "totalPaths": [
+      {
+        "x": 1.787752,
+        "y": -0.162522927
+      },
+      {
+        "x": -1.16087806,
+        "y": -0.890006661
+      },
+      {
+        "x": 2.00444913,
+        "y": -1.64844668
+      }
+    ]
+  }
+]
